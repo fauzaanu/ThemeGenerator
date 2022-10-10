@@ -3,7 +3,7 @@
 This is a simple random theme generator for chromium browsers. Generate as many as you want. 
 
 ## TODO
--[x] Changing some of the Integer values to achieve a contrast by constraining them to specefic values
+- [ ] Changing some of the Integer values to achieve a contrast by constraining them to specefic values
 
 ## INSTALLATION
 Vanilla python only, just run to generate a theme, themes are located in the sub folders of "Themes"

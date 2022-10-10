@@ -1,0 +1,25 @@
+
+    {
+      "manifest_version": 3,
+      "version": "2.6",
+      "name": "camo theme",
+      "theme": {
+        "images" : {
+        },
+        "colors" : {
+          "frame" : [181, 81, 162],
+          "toolbar" : [75, 112, 244],
+          "ntp_text" : [1, 146, 5],
+          "ntp_link" : [209,40,207],
+          "ntp_section" : [246, 91,38],
+          "button_background" : [159, 94, 103]
+        },
+        "tints" : {
+          "buttons" : [56, 79, 227]
+        },
+        "properties" : {
+          "ntp_background_alignment" : "bottom"
+        }
+      }
+    }
+    
